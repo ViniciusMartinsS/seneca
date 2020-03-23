@@ -1,0 +1,14 @@
+# Node modules
+node_modules
+
+# Env file
+.env
+
+# Package lock
+package-lock.json
+
+# Webstorm ide
+.idea
+
+#nyc
+.nyc_output

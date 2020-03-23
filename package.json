@@ -1,0 +1,17 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start-user": "node user",
+    "start-match": "node match/seneca.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10",
+    "seneca": "~3.11.0",
+    "seneca-amqp-transport": "^2.2.0"
+  }
+}
